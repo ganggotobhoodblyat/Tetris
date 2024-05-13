@@ -1,0 +1,80 @@
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\bin\Debug\Тетрис.exe.config
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\bin\Debug\Тетрис.exe
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\obj\Debug\Тетрис.csproj.AssemblyReference.cache
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\obj\Debug\Тетрис.Form1.resources
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\obj\Debug\Тетрис.Form2.resources
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\obj\Debug\Тетрис.Form3.resources
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\obj\Debug\Тетрис.Form4.resources
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\obj\Debug\Тетрис.Properties.Resources.resources
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\obj\Debug\Тетрис.csproj.GenerateResource.cache
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\obj\Debug\Тетрис.csproj.CoreCompileInputs.cache
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\obj\Debug\Тетрис.exe
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\obj\Debug\Тетрис.pdb
+D:\Users\is2211_sad\Desktop\Проект\Тетрис\bin\Debug\Тетрис.pdb
+C:\Users\user\Desktop\Проект\Тетрис\bin\Debug\Тетрис.exe.config
+C:\Users\user\Desktop\Проект\Тетрис\bin\Debug\Тетрис.exe
+C:\Users\user\Desktop\Проект\Тетрис\bin\Debug\Тетрис.pdb
+C:\Users\user\Desktop\Проект\Тетрис\obj\Debug\Тетрис.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Проект\Тетрис\obj\Debug\Тетрис.Form1.resources
+C:\Users\user\Desktop\Проект\Тетрис\obj\Debug\Тетрис.Form2.resources
+C:\Users\user\Desktop\Проект\Тетрис\obj\Debug\Тетрис.Form3.resources
+C:\Users\user\Desktop\Проект\Тетрис\obj\Debug\Тетрис.Form4.resources
+C:\Users\user\Desktop\Проект\Тетрис\obj\Debug\Тетрис.Properties.Resources.resources
+C:\Users\user\Desktop\Проект\Тетрис\obj\Debug\Тетрис.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Проект\Тетрис\obj\Debug\Тетрис.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Проект\Тетрис\obj\Debug\Тетрис.exe
+C:\Users\user\Desktop\Проект\Тетрис\obj\Debug\Тетрис.pdb
+C:\Users\is2211_sad\Desktop\Тетрис\bin\Debug\Тетрис.exe.config
+C:\Users\is2211_sad\Desktop\Тетрис\bin\Debug\Тетрис.exe
+C:\Users\is2211_sad\Desktop\Тетрис\bin\Debug\Тетрис.pdb
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.csproj.AssemblyReference.cache
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.csproj.SuggestedBindingRedirects.cache
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.Form1.resources
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.Form2.resources
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.Form3.resources
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.Form4.resources
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.Properties.Resources.resources
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.csproj.GenerateResource.cache
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.csproj.CoreCompileInputs.cache
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.exe
+C:\Users\is2211_sad\Desktop\Тетрис\obj\Debug\Тетрис.pdb
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\bin\Debug\Тетрис.exe.config
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\bin\Debug\Тетрис.exe
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\bin\Debug\Тетрис.pdb
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.csproj.AssemblyReference.cache
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.csproj.SuggestedBindingRedirects.cache
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.Form1.resources
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.Form2.resources
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.Form3.resources
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.Form4.resources
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.Properties.Resources.resources
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.csproj.GenerateResource.cache
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.csproj.CoreCompileInputs.cache
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.exe
+C:\Users\is2211_sad\Desktop\УП 01 sad\Тетрис\obj\Debug\Тетрис.pdb
+D:\УП 01 sad\Тетрис\bin\Debug\Тетрис.exe.config
+D:\УП 01 sad\Тетрис\bin\Debug\Тетрис.exe
+D:\УП 01 sad\Тетрис\bin\Debug\Тетрис.pdb
+D:\УП 01 sad\Тетрис\obj\Debug\Тетрис.csproj.AssemblyReference.cache
+D:\УП 01 sad\Тетрис\obj\Debug\Тетрис.Form1.resources
+D:\УП 01 sad\Тетрис\obj\Debug\Тетрис.Form2.resources
+D:\УП 01 sad\Тетрис\obj\Debug\Тетрис.Form3.resources
+D:\УП 01 sad\Тетрис\obj\Debug\Тетрис.Form4.resources
+D:\УП 01 sad\Тетрис\obj\Debug\Тетрис.Properties.Resources.resources
+D:\УП 01 sad\Тетрис\obj\Debug\Тетрис.csproj.GenerateResource.cache
+D:\УП 01 sad\Тетрис\obj\Debug\Тетрис.csproj.CoreCompileInputs.cache
+D:\УП 01 sad\Тетрис\obj\Debug\Тетрис.exe
+D:\УП 01 sad\Тетрис\obj\Debug\Тетрис.pdb
+D:\Проект\Тетрис\bin\Debug\Тетрис.exe.config
+D:\Проект\Тетрис\bin\Debug\Тетрис.exe
+D:\Проект\Тетрис\bin\Debug\Тетрис.pdb
+D:\Проект\Тетрис\obj\Debug\Тетрис.csproj.AssemblyReference.cache
+D:\Проект\Тетрис\obj\Debug\Тетрис.Form1.resources
+D:\Проект\Тетрис\obj\Debug\Тетрис.Form2.resources
+D:\Проект\Тетрис\obj\Debug\Тетрис.Form3.resources
+D:\Проект\Тетрис\obj\Debug\Тетрис.Form4.resources
+D:\Проект\Тетрис\obj\Debug\Тетрис.Properties.Resources.resources
+D:\Проект\Тетрис\obj\Debug\Тетрис.csproj.GenerateResource.cache
+D:\Проект\Тетрис\obj\Debug\Тетрис.csproj.CoreCompileInputs.cache
+D:\Проект\Тетрис\obj\Debug\Тетрис.exe
+D:\Проект\Тетрис\obj\Debug\Тетрис.pdb
